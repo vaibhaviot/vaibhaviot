@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Windows App Development.
-🌱 I’m currently learning from learn.microsoft.com
-📫 How to reach me: goyalvaibhav004@gmal.com
+🔭 I’m currently working on Windows App Development.</br>
+🌱 I’m currently learning from learn.microsoft.com</br>
+📫 How to reach me: goyalvaibhav004@gmal.com</br>
 
 <!--
 **vaibhaviot/vaibhaviot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
